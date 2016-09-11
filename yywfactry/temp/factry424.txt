@@ -1,0 +1,244 @@
+424	null	null	15888607881	null	null	null	
+425	null	null	13540675991	null	null	null	
+426	2012-4-28 19:15:17	null	15101154645	null	null	null	
+427	2013-4-24 10:14:18	蒋女士	023-45617666-7008	284668562@qq.com	null	铜梁工业园区姜家岩小区	<span style="font-family:SimSun;">&nbsp;&nbsp;&nbsp; 港名匠家私集团有限公司/重庆展成家俱制造有限公司是以高端欧美古典民用家俱系列和高档酒店家具为主导，集家俱设计、研发、生产、销售为一体的大型家俱生产企业。公司于2008年投资上亿元在重庆铜梁工业园区建立了研发、生产基地。基地占地50多亩，生产厂房3万多平方米，从国外引进现代化家俱生产线，其年生产能力超亿元。</span>	
+428	null	沈明磊	15000875829	85810631@qq.com	null	null	
+429	2012-4-30 11:30:50	吴经理	13810161902	123456@126.com	null	北京市大兴区青云店镇南大红门	
+430	2012-4-30 11:37:43	闫经理	13562262638	123456@126.com	null	西四路名雅家居广场	
+431	2012-11-2 10:49:23	人事部	0411-87821105	desen1188@163.com	http:www.dldesen.com	大连市金州区红塔工业区	
+432	2013-6-23 14:18:05	毛永华	13789807803	2677453134@qq.com	null	济南洛口盖家沟	
+433	2012-4-30 13:05:25	郑老板	15861933996	123456@126.com	null	江苏省盐城市建湖县经济开发区钟庄社区钟发路818号	
+434	2013-5-22 13:58:13	李小姐	18964554176	luofuzhanlan@163.com	http://www.shrover.com.cn	上海市嘉定区嘉安公路605弄33号嘉定工业区虬桥工业园	
+435	2012-4-30 15:09:18	宋先生	18961182192	niu.2000@126.com	http:WWW.czmzg.com	常州新北区长兴好日子家园10甲402	
+436	2012-4-30 15:24:04	黄小姐	020-84651598	sandy@alublu.com	null	广州市番禺区石楼镇潮田工业区嵩山路3号	&nbsp;&nbsp;&nbsp; 广州欧铝宝家具制品有限公司是一家港资企业，主要经营产品有整体橱柜，橱柜门板，橱柜配件，厨房木制用品，铝制品家具配件，铝制品各类拉手等等，产品远销海外，公司因业务扩展，诚招所述人仕。</span>	
+437	2012-4-30 15:28:29	赵经理	13852003771	123456@126.com	null	徐州市泉山区	
+438	2012-4-30 15:41:26	张小姐	0597-5312013	lyjinyixuan@163.com	http:www.lyjinyixuan.com	中国福建龙岩市新罗区龙州工业园区高新区	
+439	2012-4-30 15:47:20	潘经理	13305207791	123456@126.com	null	江苏徐州云龙区大龙湖办事处冯庄1组	&nbsp;&nbsp;&nbsp; 徐州美瑞家具有限公司创建于2006年，&nbsp;位于中国的汉朝古彭城(徐州)，交通便利，具有深厚的文化底蕴，也是古今的兵家必争之地。&nbsp;</span>	
+440	2012-4-30 16:07:24	张经理	15239014004	1145935285@qq.com	null	河南-焦作-武陟	
+441	2012-4-30 16:11:53	蔡文海	13605114844	123456@126.com	null	坚固盐城亭湖区	
+442	2012-4-30 16:20:36	张女士	0633-3969838	123456@126.com	null	山东日照市东港区	
+443	2012-4-30 16:25:57	彭经理	18961211617	123456@126.com	null	湖塘东升村下蒋6号	
+444	null	袁先生	15005112837	ycliansheng@163.com	http:yclsyq.58.com.cn	解放南路 宏都花园25号101室	
+445	2012-5-2 1:00:55	null	13352894869	null	null	null	
+446	2012-5-2 15:41:57	陈先生	13082381889	1592829961@qq.com	null	河北省保定市东二环中路花鸟鱼虫市场	
+447	null	null	15381295379	null	null	null	
+448	2012-5-2 16:06:44	李先生	13685241836	123456@126.com	null	江苏省常州市武进区遥观工业园	
+449	2012-11-12 14:23:22	白女士	15037502790	109365502@qq.com	null	河南省平顶山叶县二环路	
+450	2012-5-2 16:37:52	陈小姐	18978746328	123456@126.com	null	北流市田心工业区	
+451	2012-5-2 16:45:57	赵老板	18952399878	123456@126.com	null	江苏淮安淮阴区	
+452	null	null	051689487772	shaobing_75@163.com	null	徐州丰县	
+453	2012-5-3 16:08:01	赵斌	05357810130	ytcyjj@163.com	http:www.changyang.com.cn	山东省莱阳市沐浴店镇巷子口村西	
+454	2013-1-20 14:29:37	苗先生	13781851223	123456@126.com	null	河南平顶山叶县任店	
+455	2012-5-3 16:25:57	人事部	18914823700	123456@126.com	null	江苏徐州睢宁县沙集镇东风工业园	2009/9/9</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">号</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">&nbsp;</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">在淘宝经营</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">2</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">家淘宝商城！</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">1</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">．客服人员</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">--</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">要求：熟练使用电脑，心思细密，应变能力强，好学，有网上卖家经验优先！</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">2</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">．管理人员</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">--</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">要求：有网上卖家经验，熟悉淘宝网，对电子商务有一定理解！</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">3</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">．网页平面设计、美工人员</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">--</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">要求：熟练使用</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">ps</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">等作图软件，会拍摄产品实物图，有作图、网页设计经验优先！</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">4</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">．网店营销推广人员</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">--</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">要求：学习应变能力强！有活动策划、淘宝推广经验优先！重要说明：以上各个岗位有分工，但是更多的是合作，上班后各个岗位的工作都会安排轮流做！以上岗位，均要求有团队合作精神，吃苦耐劳，勤学上进！有相关经验优先录用！</span>	
+456	2012-5-3 16:54:40	李女士	13472619478	123456@126.com	null	上海嘉定区外冈镇长泾村562号	
+457	null	null	0372-6231234	null	null	null	
+458	null	null	13806636733	ljj601@163.com	null	null	
+459	null	李志敏	13923125400	gdcoating@163.com	http:www.gdcoating.net	佛山市顺德区伦教镇永丰工业区二期	
+460	null	null	0769-22400888	null	null	null	
+461	2012-5-7 15:50:42	卢先生	15601000448	123456@126.com	null	北京望京悠乐汇	
+462	2012-12-6 10:20:23	刘经理	15954181188	123456@126.com	null	山东济南黄台装饰材料市场前排三层七号办事处	
+463	2012-5-7 16:02:38	周女士	18623005503	250730730@qq.com	http:www.cqmengda.com	重庆市北碚区澄江镇柏林村	
+464	2012-5-7 16:11:10	吴连峰	13927349822	123456@126.com	null	广东惠州市惠阳区秋长新塘工业区	
+465	2012-5-7 16:18:56	权小姐	029-88250508	123456@126.com	null	陕西西安市高新一路12号	
+466	2012-12-15 9:44:12	戴先生	13751877047	123456@126.com	http:www.gdyuquan.com	广州市番禺区沙头街大平工业区十四号	
+467	
+468	2012-5-7 16:39:39	王先生	15162217208	123456@126.com	null	江苏宿迁	
+469	2012-5-7 16:46:49	李经理	15563172052	123456@126.com	null	济宁市王母阁路与龙行路交叉口向西50米路北	
+470	2012-5-7 16:51:17	张女士	010-58608190-652	123456@126.com	null	北京市昌平区立汤路188号	
+471	2012-5-7 20:23:43	null	13072704288	null	null	null	
+472	null	null	13673613771	null	null	null	
+473	null	null	13663227877	null	null	null	
+474	2012-10-28 11:16:43	牟经理	13908672246	123456@126.com	null	湖北襄阳市樊城区春园西路铁路四院	
+475	2012-5-9 8:37:11	翟翌	15872221847	123456@126.com	null	湖北襄阳老河口市航空路128号	
+476	2013-5-23 10:28:47	高经理	010-61507165	newidea888@sina.com	http:www.cn-newidea.com	北京市通州区张家湾镇梁各庄村	
+477	2012-5-9 8:56:42	盛烨飞	15968821251	psp1999@163.com	http:www.psp-display.com	浙江省杭州市萧山区党山工业园	
+478	2012-5-9 9:01:53	欧先生	18911921538	sales@dchchina.com	http:www.dchchina.cn	北京市朝阳区黑庄户乡万子营东村北工业区	&nbsp;&nbsp;&nbsp; 北京德诚和公司在展览展示和展柜行业有丰富的经验和客户优势，是家乐福（中国） 超市和北京华联综合超市全国定点供应商。公司秉承“诚信聚客、和气生财、以德治业、昌盛不衰”的经营理念，以专业的商超卖场设计咨询，精湛的展柜制作工艺，并结合中国本土文化，以市场为导向，以客户满意为中心，服务中国市场。为全国各大商超企业提供优质的展览展示服务和精品展柜。</span>	
+479	2012-5-9 9:15:01	杨先生	020-66678800	stylence998@163.com	http:www.stylence.net	广东省广州市白云区人和镇太岗路岗尾工业区	
+480	null	null	18888747007	null	null	null	
+481	2012-5-9 9:31:02	邱生	0752-3843596	123456@126.com	null	广东省惠州市惠阳区秋长街道办茶园村	
+482	
+483	null	null	13450223765	null	null	null	
+484	2012-5-9 16:35:31	王总	13611529571	123456@126.com	null	江苏省盐城市响水县	
+485	2012-5-9 16:42:27	何小姐	0731-88151070	123456@126.com	null	长沙芙蓉区嘉雨路白沙物流	
+486	2012-5-9 16:51:48	黄先生	020-61989993	LF417515193@163.com	http:www.vinaes.com	广州市番禺区南村镇为民北路28号	
+487	null	null	03925777855	null	null	null	
+488	2015-1-30 10:03:56	吴先生	18930795322	mingshunhongmu@gmail.com	http:www.mingshunhongmu.com	上海青浦外青松公路5180号（近北青公路）	
+489	null	null	0316-8392966	null	null	null	
+490	2012-5-10 14:12:52	王女士	18660625001	123456@126.com	null	向阳路北头	
+491	2012-5-10 16:07:41	舒立平	13002006825	cnmeidiya@163.com	null	广州市黄埔区大沙东路539号	
+492	2012-5-10 16:18:24	陈先生	18952033438	123456@126.com	null	南京市溧水县	
+493	2012-11-11 13:40:34	王立杰	0316-2577085	123456@126.com	http:www.wcmm.com.cn	廊坊市安次区工业园安锦道六号大唐木业有限公司	
+494	2012-5-10 16:34:04	王先生	13666380650	123456@126.com	null	东昌府区嘉明工业园卫育路和济邯铁路交叉口路西	
+495	2012-5-10 16:54:28	石峰	13653355959	123456@126.com	null	河北秦皇岛南戴河新发路中段	
+496	2012-10-20 14:44:45	赵先生	13077480606	1214144037@qq.com	http:www.gd-fenghai.com	广东佛山市顺德区 容桂风华路东日豪庭26号	
+497	2012-5-11 8:20:40	宁晚凤	18922275137	nwf-005@163.com	null	广东广州白云区均禾街石马村	
+498	2012-5-11 8:34:21	严先生	029-85845522	ss-dk@163.com	http:www.ny-dk.com	陕西西安长安区高新新型工业园	
+499	2012-5-11 8:40:11	曹先生	13664039648	123456@126.com	null	内蒙古包头市青山区恒鹿家具城	
+500	2012-5-11 8:48:21	肖小姐或梁先生	0769-83816728-211	123456@126.com	null	东莞市常平镇朗洲村	
+501	null	曾旖旎	13875393210	yini1987824872@163.com	null	沅江市双凤社区中联重科涂装工业园 芝凤公司	
+502	2012-5-11 17:17:09	null	13528480036	null	null	null	
+503	null	null	13738880218	null	null	null	
+504	null	null	15003807630	null	null	null	
+505	2012-5-13 17:19:41	赵新	15148762345	826801004@qq.com	null	内蒙古通辽市	
+506	null	null	13843380567	null	null	null	
+507	2012-11-6 10:30:24	王先生	15810883901	tianling126@163.com	http:www.sjhczg.com	北京昌平区天通苑	
+508	2012-5-14 10:20:13	陈先生	0519-85552527	769808548@qq.com	http:www.czmj.cn	武青北路6号听松大厦8楼	&nbsp;&nbsp;&nbsp; 美居装潢于1992年开始创立，现拥有各类中高级工程技术管理人员69名，历年来美居团队“信守承诺，&nbsp;追求卓越”，坚持以质量第一、安全第一、顾客至上的经营理念和服务宗旨。经过公司全体员工多年的拼搏和努力，实践积累了许多宝贵的施工技术和管理经验；并自成一体，形成了美居独特的设计风格和经营特色；在室内装饰行业领域独树一帜。公司业务操作规范，工程设计、技术、质量管理水平不断创新提升，制度完善，售后服务好，美居品牌综合竞争能力行业领先；先后被市工商局评为常州市首批“免检企业”AAA级信用（合同）企业；荣获常州市“十佳装饰企业”和“优秀建筑装饰企业”常州市“优秀家装示范企业”“住宅装饰诚信服务规范企业”；多次荣获装饰行业设计、施工大奖赛金奖、银奖、优秀奖项，被评为常州市民喜爱的“十大放心家装公司”等多项荣誉，连续十几年无质量投诉。</span>	
+509	2012-5-14 10:28:19	张经理	0531-85700832	haiyan55@VIP.163.com	http:www.firstdec.com	济南市天桥区无影山北路1号	&nbsp;&nbsp;&nbsp; 山东福思特建筑装饰有限公司成立于一九九四年，注册资金1000万元，是中国第一家大型高科技工业化装修工厂，具有设计施工“双甲”资质，面向全国星级饭店、高档写字楼，专业从事设计施工总承包，是国际著名公司加拿大HD国际装饰产业集团中国地区战略合作伙伴，被建设部授予“全国建筑装饰行业产业化实验基地”。&nbsp;</span>	
+510	null	null	15573000259	null	null	null	
+511	2012-5-14 10:44:36	范先生	15288859526	123456@126.com	null	山东潍坊河湾工业园	
+512	2012-5-14 10:52:57	刘小姐	0769-89982033-870	info@nanxing.com.cn	http:www.nanxing.com.cn	广东省东莞市厚街镇双岗村家具大道侧	
+513	2012-5-14 10:57:37	人事部	020-86962192	123456@126.com	http:www.eurowin.com.cn	广东省广州市花都区凤凰北路三东工业区	
+514	null	null	13646320709	null	null	null	
+515	null	null	13008812009	null	null	null	
+516	null	null	15553080202	913661386@qq.com	null	null	
+517	null	李先生	027-82965072	dnxtxsb@163.COM	http:www.whdnxt.comIndex.asp	中国湖北省武汉市江汉区建设大道417号110栋2楼	
+518	2014-8-29 8:32:31	吴先生	13366551158	lenianhua@163.com	http:lnhcs.wanye68.com	北京市大兴区黄村镇前辛庄	
+519	
+520	2012-5-15 14:40:14	李柏霖	13983183678	li_bai_lin@163.com	http:www.cqblsh.cn	重庆市沙坪坝沙南街49号星瀚大厦8-1	
+521	2012-5-15 15:11:06	张经理	13515609309	gtzs@gtzs888.com	http:www.gtzs888.com	安徽合肥双岗富荣大厦六楼国通装饰	
+522	2012-5-15 15:28:02	徐小姐	021-59834666-261	andy_yang@artekfurniture.com	http:www.artekfurniture.com	上海市青浦区朱家角工业园康园路480号	
+523	
+524	
+525	2012-11-14 10:34:02	黄老师	18030579227	123456@126.com	null	重庆武阳大道288号中央花园城市别墅E25	
+526	null	null	13208172576	null	null	null	
+527	
+528	2012-5-15 17:05:07	杨先生	13420061110	605490020@qq.com	http:www.lcf888.com	广东省中山市民众镇阳光大道18号	
+529	2012-5-16 13:52:53	人事部	0516-83832916	123456@126.com	null	江苏省徐州市淮海食品城华东市场	&nbsp;&nbsp;&nbsp; 徐州三丰家具有限公司，一直致力于家具的设计研发、生产和销售，以“简约”、“实木”、“优廉”的品质为先导，本着“实实在在做事，认认真真做人”的理念，始终坚持技术创新、精诚服务为宗旨；在提升品牌战略的同时，提倡健康家具、和谐家庭的消费服务理念；以客户为中心，全力服务社会。</span>	
+530	2012-5-16 14:29:56	杨经理	18259262316	529464108@qq.com	http:www.xmcgw.comindex.php?homepage=qxbjj	厦门市翔安区新店镇新兴街车洁美对面	
+531	2012-5-16 14:44:37	赵永强	0411-86741399	123456@126.com	null	辽宁大连市甘井子区营城子前牧	
+532	2012-5-16 14:59:25	姜经理	0531-86561563	123456@126.com	null	济南市历城区华山木材市场附近	
+533	
+534	2014-12-17 9:39:16	冯经理	13081031570	965412235@163.com	http:www.yuhongmuye.com	石家庄市长安区南村镇南村开发区	
+535	2012-5-16 16:21:31	李先生	15612937276	892564451@163.com	http:jingxishiye.cn.alibaba.com	中国 河北 石家庄市长安区 河北石家庄市良村经济技术开发区岗上商贸街76号	
+536	2012-5-16 16:50:45	侯先生	13918226986	125463342@163.com	http:shjc01.cn.alibaba.com	上海市奉贤区 上海市奉贤区大叶公路7628号奉贤建材市场木皮区F区C弄01	
+537	null	null	13501065157	null	null	null	
+538	
+539	
+540	2012-5-21 0:14:15	null	18059096578	chhq1011@163.com	null	null	
+541	
+542	
+543	2012-5-17 15:47:20	任经理	13581934686	546238856@163.com	http://bjtongzhou.11467.com/3380	北京市通县胡各庄乡古城村东	
+544	2012-5-17 15:47:43	黄先生	18676179127	123456@126.com	null	中山市五桂山镇龙塘工业区鲤鱼山107号	
+545	2012-5-17 15:52:47	赵经理	15315829555	123456@126.com	null	德州市东风东路德百家居广场中厅三楼森林家具	
+546	2012-5-17 16:21:57	关经理	18602622498	clmafurn@126.com	http://www.clmafurniture.com	天津市武清开发区泉发路18号	
+547	2012-5-17 16:02:22	马先生	15026930381	123456@126.com	null	上海青浦区华新镇	
+548	2015-3-19 8:59:35	孙经理	13804909239	123456@126.com	null	辽宁省沈阳市苏家屯区	
+549	
+550	2012-5-19 6:52:44	null	13804386007	null	null	null	
+551	null	招商部	0750-3732711	healthapple@health-apple.com	http://www.health-apple.com	广东江门市蓬江区荷塘镇唐溪红庙西坊南二路2号	
+552	2012-5-19 14:50:59	于经理	15996861101	856423354@163.com	http://mtw323725.chinapyp.com/	江苏省徐州市丰县赵庄镇仁庄村	公司介绍：</span>	
+553	2012-5-19 15:04:00	张经理	13856087057	jinshanzhanlan@126.com	http://www.ahjszg.cn	合肥市包河工业园大连路56号	　</span></span></span></span></strong><span style="color:blue;font-size:small;"><span style="font-size:small;"><span style="font-size:x-small;"><span style="color:#000000;"><span style="font-family:SimSun;"><span style="font-size:14px;">专业从事各类精品展示柜、大型品牌专卖店柜台、展览专用展示柜设计制作。本公司是集研发、生产、销售、安装、售后一条龙服务型企业。</span></span></span></span></span></span></span> <p style="text-align:justify;"><span style="font-size:x-small;"><span style="font-family:楷体_GB2312;"><span style="color:teal;"><span style="font-size:xx-small;"><span style="color:#000000;"><span style="font-family:SimSun;"><span style="font-size:14px;">　　</span></span></span></span><span style="font-size:small;"><span style="font-size:x-small;"><span style="color:#000000;"><span style="font-family:SimSun;"><span style="font-size:14px;">公司主要从事设计制作手机展柜、商业展台、商场展柜、珠宝首饰精品柜台、化妆品形象展柜、饰品展柜、服饰鞋帽展柜、电子卖场展柜、食品展柜、钢木组装展柜、超市卖场木质展柜、会展设计制作、吸塑制品加工、建筑模型制作、儿童家具、卫浴隔断、装潢贴金等服务的专业公司。</span></span></span></span></span></span></span>	
+554	2012-5-19 16:23:53	陈小姐	13055513668	clq@yoteco.com	http://www.yoteco.com	厦门市同安区新民镇新民大道499号	
+555	2012-11-29 10:02:47	罗先生	15180199858	1007858961@qq.com	http://fanghao.jxjjw.net	江西南昌市新建县长堎开发区工业三路	
+556	null	null	18678291357	null	null	null	
+557	null	null	18858788070	null	null	null	
+558	null	null	0757-88718915	2313@163.com	null	null	
+559	null	null	13006637867	null	null	null	
+560	2012-5-22 18:09:32	行政部	0816-2863306	sanmu2863306@163.com	null	四川省绵阳市涪城区南山路南塔五社三木家具厂	
+561	2012-10-18 9:44:58	朱老板	13095521378	123456@126.com	null	蚌埠市蚌山区	
+562	2012-5-22 18:21:58	黎东永	13686723022	2507703612@qq.com	http://www.mmjiaming.com	茂名市茂南区袂花镇石狗岭村委会旧鸡场	&nbsp;&nbsp;&nbsp; 茂名市茂南嘉铭家具厂是一家具有现代实木风格，集研发、生产、营销为一体的板式,实木套间客厅家具专业生产企业。拥有一万平方米生产中心，具有成套的自动化设备和先进的工艺技术，进口优质的原材料，品质优良、信誉保证。&nbsp;&nbsp;&nbsp; 	
+563	2012-5-22 22:21:57	小刘	13313052979	liou342201@163.com	null	江苏南京	
+564	null	杨生	18923083362	2399606293@qq.com	http://www.usa-swin.com/	江门市蓬江区港口路13号	
+565	2013-1-17 10:43:53	郑总	13339839382	123456@126.com	null	湖北省孝感市开发区永光村	
+566	2013-5-22 14:38:19	李总	18964188473	1937272850@qq.com	null	上海市嘉定区方泰镇嘉松北路方园路金昌路1018号	
+567	2012-5-23 17:27:49	黄先生	13523739728	zjz680815@163.com	null	新乡物理与化学电源产业园区	
+568	2012-5-23 19:24:04	null	13977214131	null	null	null	
+569	null	李丽	0750-3955797	null	http://www.dubk.com.cn/	广东省江门市潮涟镇潮莲工业区	
+570	2012-10-24 10:11:08	黄女士	0534-5672600	123456@126.com	null	山东省德州市齐河经济开发区经七路北首	
+571	2012-5-24 16:37:07	杨先生	020-66678800	123456@126.com	http://stylence.jiaomai.com	广东广州市白云区人和镇岗尾工业园自编A栋	&nbsp;&nbsp; &nbsp;&nbsp; 广州捷瑞家具有限公司，坐落于广州市白云区人和镇，距离广州白云机场5分钟车程，便利的交通网络、优越的基地布局，为高端商务人士提供一步到位的服务！ 	
+572	2012-5-24 16:35:46	任先生	13561664432	852164452@163.com	http://sdaxjj.cn.alibaba.com	中国 山东 淄博市周村区 山东淄博周村区周长路南首	
+573	2012-5-24 16:42:39	聂先生	13711376059	123456@126.com	null	广州市花都区宝华路45号利丰工业区	
+574	null	孟小姐	051066613301-8011	mengxiamengxia@sohu.com	null	无锡新区城南路211号	
+575	
+576	null	null	15241044468	null	null	null	
+577	2012-5-25 16:16:52	小易	18977207816	123456@126.com	null	广西柳江成团镇124号	1000</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">套实木沙发，</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">1000</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">套餐椅餐台，现在还准备做柜子等。</span>	
+578	2012-5-25 16:27:34	人事部	0917-8330158	qljj2008@126.com	http://www.bjqljj.cn	陕西省岐山县雍川镇	<span style="font-family:SimSun;">&nbsp;&nbsp;&nbsp; </span><span style="font-family:SimSun;">陕西省家具协会会员单位——</span></span></span><strong><span style="color:#ff3300;"><a href="http://www.bjqljj.cn/"><span style="font-family:SimSun;"><span style="font-size:14px;"><span style="font-family:SimSun;">宝鸡秦龙家具有限公司</span></span></span></a></span></strong><span style="font-family:SimSun;"><span style="font-size:14px;"><span style="font-family:SimSun;">，始建于一九九八年，其前身为岐山县秦龙装饰有限公司家具厂，是专业从事研究、开发、设计、制作、销售各式</span></span></span><a href="http://www.bjqljj.cn/"><span style="font-family:SimSun;"><span style="font-size:14px;"><span style="font-family:SimSun;">办公、宾馆、居室家具</span></span></span></a><span style="font-family:SimSun;"><span style="font-size:14px;"><span style="font-family:SimSun;">的大型家具生产企业。&nbsp;</span></span>	
+579	2012-5-25 16:42:03	高先生	13917022712	789526642@163.com	http://www.slrom.com.cn	中国 上海市青浦区 华新镇中二路888弄199号2幢	
+580	2012-5-25 16:34:37	赵先生	15060956469	sc@senchangjiaju.com	http://www.senchangjiaju.com	福建泉州市洛江区河市镇钟洋工业区8号	
+581	2013-6-24 10:13:23	李主任	18917334308	856123364@163.com	http://www.shxljjzz.com.cn	中国 上海市嘉定区 徐行镇劳动路419号	<span style="font-family:SimSun;"><span style="font-size:14px;">公司介绍：</span></span></span>	
+582	null	null	13006637867	null	null	null	
+583	null	null	075527806741	null	null	null	
+584	2012-5-26 15:55:41	熊先生	02156027517	852162246@163.com	http://shchanghong.b2bvip.com/	上海市宝山区陈富路889号	
+585	
+586	2012-5-26 17:05:06	肖小姐	075584042665	712303925@qq.com	http://www.canzhuoyi.com	深圳市龙岗区横岗镇西坑村百达街一号	
+587	null	null	13869540365	null	null	null	
+588	null	null	13804386007	791379723@qq.com	null	null	
+589	
+590	2012-5-28 14:47:18	左小姐	13524855189	853216624@163.com	http://pxwood.cn.alibaba.com	中国 上海市 上海市闵行区虹梅南路3855弄向阳路289号	
+591	2012-5-28 15:56:32	马小姐	020-62110011-6028	526164456@163.com	http://www.kloly.cn	中国 广东 广州市 广州市白云区石井街大朗南路１号利澳工业园	
+592	2012-5-28 16:19:17	蔡小姐	18929193938	anjel4500244@163.com	null	广东省东莞市黄江镇刁朗洪圣路126号	
+593	2012-12-31 10:30:27	林小姐	0769-86528016	dgspkyb@163.com	http://www.deco.com.hk	广东省东莞市石排镇下沙管理区港丰家具厂	
+594	2012-5-28 16:38:53	郝先生	0752-6182520	123456@126.com	http://www.coe.com.cn	惠州市博罗县园洲镇下南工业区兴园一路39号（总厂）	
+595	2012-5-28 22:52:04	null	13703530335	null	null	null	
+596	2012-12-25 10:12:02	任经理	13905322983	liangmingqingdao@126.com	http://www.liangmingjiaju.com	青岛城阳夏庄东古镇玉皇岭工业园	
+597	2012-5-29 15:48:09	李部长	13210128511	luqidi@kaixiangsen.com	http://www.kaixiangsen.com	青岛双星工业园西侧	
+598	null	null	05345676788	null	null	null	
+599	
+600	2012-5-29 16:37:02	黄先生	13927494616	123456@126.com	null	龙岗区龙城街道五联社区协平爱联工业区48-49栋	
+601	2012-5-29 16:40:58	欧阳	13417377464	123456@126.com	null	深圳市南山区东滨路86号	
+602	null	纪景檩	0531-83541650	jndgtz@163.com	http://www.jndgtz.com	山东省济南市章丘市刁镇经开发区25	
+603	null	null	0931-5609201	null	null	null	
+604	null	陆发	15112930867	www.1619353801@qq.com	http://www.degong.com	佛山市顺德区容桂镇马岗工业区宝冈北路10号	
+605	2016-7-20 15:04:42	叶江义	13959014863	123456@126.com	null	福建省龙岩市漳平市高明新村处	
+606	2012-12-7 10:03:37	何女士	041166007800	aimashi_dl@163.com	null	大连市甘井子区由家村工业园区辛博街808号	
+607	2012-12-7 10:39:41	尹劲松	051381268978	123456@126.com	http://hyjd8886.cn.alibaba.com	江苏海门市南通海门市海门港大生路3800号	
+608	null	null	13006637867	null	null	null	
+609	null	null	15828089039	null	null	null	
+610	2012-12-7 10:04:48	曹先生	18964576629	123456@126.com	http://www.zptcellar.com	上海浦东新区新场镇莲航路108号3幢	
+611	2013-6-23 15:03:14	曹志强	029-88250508	2677453134@qq.com	null	江苏南通市如皋市新东路6号	2007</span></span></span><span style="font-size:14px;font-family:宋体;mso-hansi-font-family:'Times New Roman';mso-ascii-font-family:'Times New Roman';">年，占地面积</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">4000</span></span></span><span style="font-size:14px;font-family:宋体;mso-hansi-font-family:'Times New Roman';mso-ascii-font-family:'Times New Roman';">多平方米，标准厂房</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">3000</span></span></span><span style="font-size:14px;font-family:宋体;mso-hansi-font-family:'Times New Roman';mso-ascii-font-family:'Times New Roman';">多平方米，是一家集研发、生产、销售和服务为一体的现代化家具企业。</span>	
+612	2012-12-7 10:05:50	陆小姐	13917373738	sh_qiyun@163.com	http://www.shqiyun.com	上海市虹口区曲阳路800号吉盛伟邦693（693是铺号）	
+613	2012-6-2 9:44:19	null	13401020868	null	null	null	
+614	2012-10-29 9:30:25	付先生	13871494496	529584199@qq.com	http://www.hengal.com	武汉市-湖北省-东西湖银柏路13号-和乐福德	
+615	null	null	13131721193	null	null	null	
+616	2013-3-3 21:35:55	null	13352894869	null	null	null	
+617	null	null	18358298022	chen@foxmail.com	null	null	
+618	2012-12-7 10:37:45	人事部	021-69755600	webmaster@jswb.com	http://www.jswb.com.cn/	上海市青浦赵巷嘉松中路5369号	
+619	2012-10-31 13:38:54	戴先生	13604523273	649083564@qq.com	http://www.jiushenglong.com	齐齐哈尔市铁锋区二玻璃厂东300米	
+620	2012-6-2 15:50:42	杨经理	18745226699	123456@126.com	null	null	
+621	2012-6-2 15:56:23	黄先生	18002297493	264486751@qq.com	http://264486.71ab.com	广东省广州市白云区龙归镇夏良村九队定子嶐厂房	
+622	
+623	2012-12-7 10:06:58	赵鑫	18804750471	123456@126.com	null	内蒙古通辽市木门厂	
+624	null	null	13231489502	null	null	null	
+625	2013-5-24 11:01:37	云峰	13503505471	ailige@ailige.cc yunf@ailige.cc	http://www.ailige.cc/	山西太原小店区龙保工业园南区	
+626	2013-5-21 10:08:36	王小姐	15306481071	156326645@163.com	http://www.qdweilai.com	中国 山东 即墨市 青岛市即墨市大信镇司家疃村东	
+627	null	null	18957726898	935162446@qq.com	null	null	
+628	null	null	13884885362	195559025@qq.com	null	null	
+629	2012-12-7 10:07:53	王云霞	13816490561	156238862@163.com	http://www.shhmjj.com	上海市嘉定区马陆镇思义路 1 号桥北侧	
+630	
+631	2012-6-4 15:18:02	利先生	0755-26014420	156326648@163.com	http://yahui.wnet.com.cn	深圳市西丽镇长源村长岭皮水库脚工业区内	
+632	null	null	15332131839	null	null	null	
+633	2012-12-7 10:11:11	吴女士	18909810999	492642620@qq.com	http://xywupai.com	辽宁沈阳市大东区东贸路20-1号	
+634	2012-12-7 10:11:33	王先生	13003422652	amohui@163.com	http://www.parus.to8to.com	江苏南京市浦口区丁解	
+635	null	赖福英	13113971230	gzdong168@163.com	http://gzyhpptc.wanye68.com	广州市白云区太和镇金盘村金铺庄工业区二号	
+636	2013-6-15 9:44:41	李总	18970826737	ncdiguo@163.com	http://www.ncdiguo.com	江苏南昌市青云谱区广州路	&nbsp;&nbsp;&nbsp; 南昌帝国展柜道具制造有限公司是一家专业于高端珠宝展柜、手表展柜、眼镜展柜、奶粉展柜、服装展柜、手机数码展柜、化妆品展柜、家具饰面板制造的一体化生产制造厂家，引进德国进口设备，生产技术成熟，自成立以来一直专注品牌连锁加盟的终端形象店建立，因专业、专心不断发展壮大，依靠设计、研发、生产、物流、安装、服务的完善体系，及不断创新的精神，迅速成为江西最具实力的展柜制造厂商，并被众多强势企业品牌指定为终端形象建设的优秀合作商。公司本着“诚信务实 精益求精”的经营理念，坚持“以人为本 不断创新”的企业精神，不断为广大用户提供时尚、精致、高端、可靠的优质产品，长期以来，公司本着“产品优质、信誉可靠”的理念，始终在同行业中处于领先地位，深受广大新老客户的青睐与赞赏。</span>	
+637	
+638	2012-12-7 10:09:18	人事部	022 82120300	hrtj@centechsv.com	http://www.centechsv.com	天津市武清经济开发区泉发路30号	
+639	2014-8-24 8:52:03	郭海杰	13220762677	haijiejiaju@163.com	http://WWW,HAIJIEJIAJU.CN	山东省高密开发区	
+640	2012-6-6 14:55:44	田小姐	0571-88977960	zjrbfc@126.com	null	杭州市西湖区古墩路1043号	
+641	2012-12-7 10:10:22	张经理	13359218021	123456@126.com	null	陕西西安市天台三路北区2号	
+642	2012-12-7 10:11:57	章先生	18710719350	s.xq2010@hotmail.com	http://www.xaletai.com	西安市红光路中段和平工业园六号路28号	
+643	2012-6-6 21:53:25	null	15002743619	null	null	null	
+644	2012-6-7 10:42:36	null	15557303682	null	null	null	
+645	2012-6-8 10:52:40	null	15936376718	null	null	null	
+646	
+647	null	null	18028790925	null	null	null	
+648	2012-10-11 8:52:24	null	13804386007	791379723@qq.com	null	吉林省松原市	
+649	null	null	18947046074	null	null	null	
+650	2012-12-7 10:10:47	雷先生	13850105236	123456@126.com	null	福州海峡展览城	
+651	2012-6-9 14:51:29	行政部	0769 85999833	123456@126.com	null	广东 东莞市 广东省东莞市厚街镇军埔工业区	
+652	null	null	057482830562	null	null	null	
+653	null	王先生	057186560949	daive_09@yahoo.com.cn	http://daive1977.cn.alibaba.com/	浙江杭州上城区秋涛路66号杭木综合楼505	
+654	2012-6-11 9:08:38	范立茵	0311-88745318	935700297@qq.com	http://www.sjzfsmy.com	石家庄市长安区南村镇大丰屯	石家庄市长安区范氏门业坐落于省会家具基地——南村镇，紧邻</span></span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">107</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">、</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">307</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">国</span></span><span style="font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';"><span style="font-size:small;"><span style="font-size:14px;">道，交通便利。拥有无尘全压烤漆房，全自动电脑雕刻机等先进的生产设备，</span></span></span><span style="font-size:small;"><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">以及全新</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">UV</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">涂装生产线。主要生产各类工艺的烤漆门，质朴自然的实木门，高</span></span><span style="font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';"><span style="font-size:small;"><span style="font-size:14px;">贵典雅的面包门，精雕细琢的浮雕门……，百余款新品，满足消费者多层面的</span></span></span><span style="font-size:small;"><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">需求。在新产品的研发中，“科技、环保”是我们永远的追求。</span><span lang="EN-US"><span style="font-family:'Times New Roman';"><span style="font-size:14px;">&nbsp;</span></span></span><span style="font-size:14px;font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">我公司自成</span></span><span style="font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';"><span style="font-size:small;"><span style="font-size:14px;">立以来，以优质的产品，完善的售后服务，获得客户一致好评！</span></span>	
+655	null	null	13602422923	null	null	null	
+656	null	杨经理	021－39196769	shjunyao@hotmail.com	http://www.coatingsolution.net	上海金宝工业园区丰华公路1069号	
+657	null	null	0737-6187666	null	null	null	
+658	2012-12-7 10:12:58	钟俊光	13870759004	575693511@qq.com	http://tjzxzzh.jiaju.cc	南康市国际家居博览中心	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本厂专业生产各种实木床，以及各种家具和配套小件。本厂有专业的生产设备，有很强的家具设计及生产能力，质量保证，产品价格优惠，也承接来样加工定做。热忱欢迎新老客户惠顾！	
+659	2012-6-11 16:26:14	彭先生	13907147305	123456@126.com	null	武昌楚雄大道岭南路229号	
+660	null	null	09515192122	null	null	null	
+661	null	null	null	12769643@qq.com	null	广州番禺南浦	
+662	2012-12-7 10:21:13	姜南如	0791-8131795	123456@126.com	http://www.hlijj.cn.gongchang.com	南昌市高新大道炸下胡家村昌东工业园旁	
+663	2012-12-7 10:49:48	龙先生	13974114369	123456@126.com	null	湖南省株洲市攸县莲塘坳粮库内	&nbsp;&nbsp;&nbsp; 龙兴家具厂成立于</span></span><span lang="EN-US"><span style="font-size:14px;font-family:SimSun;">1994</span></span></span><span style="font-size:14px;font-family:SimSun;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:'Times New Roman';">年，主要从事木质家具的生产、销售，产品主要销售到广东、湖北、湖南三省。	
+664	null	null	15515579156	null	null	null	
+665	null	王先生	13863687899	384732727@qq.com	null	山东潍坊	
+666	null	null	0513-84111601	2697465503@qq.com	null	null	
+667	
