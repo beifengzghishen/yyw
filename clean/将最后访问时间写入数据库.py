@@ -20,7 +20,7 @@ for line in last_time1:
     sql="update painters_last_time set last_view_time ='%s' where ID='%s';" %(p[1],p[0])
     print sql
     cur.execute(sql)
-    conn.commit()    #commit。提交数据到数据库里，否则数据库里么有数据。
+    conn.commit()    #commit。提交数据到数据库里，否则数据库里没有数据。
 
     print time.clock()
 

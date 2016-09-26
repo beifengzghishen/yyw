@@ -20,7 +20,9 @@ all3_lists=file_all3.readlines()
 for all3_list in all3_lists:
     all3_list1=all3_list.split('\t')
 
-    '''
+
+
+
     print '++++++++++++++++++++++'
     print len(all3_list1)
     print '______________________'
@@ -41,12 +43,11 @@ for all3_list in all3_lists:
     print  '7', all3_list1[7]
     print "----------------------"
     print "++++++++++++++++++++++++"
-    '''
 
 
 
     sql="insert into factry values ('%s','%s','%s','%s','%s','%s','%s');" %(all3_list1[0],all3_list1[1],all3_list1[2],all3_list1[3],all3_list1[4],all3_list1[5],all3_list1[6])
-    #print '1111111111111111',sql
+    print '1111111111111111',sql
     cur = conn.cursor()
     cur.execute(sql)
     print time.clock()

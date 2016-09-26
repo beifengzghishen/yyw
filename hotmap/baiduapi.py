@@ -8,7 +8,7 @@ p = ',"count":1},'
 
 for lines in fac_open:
     line=lines.split('\t')
-    #print line[0],line[6]
+    print line[0],line[6]
     if line[6] !='null':
         try:
             location = map_api.location_api.get_location_by_address(line[6])
