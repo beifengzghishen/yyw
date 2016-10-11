@@ -6,10 +6,13 @@
 # @File    : user_modle.py
 # @Software: PyCharm
 
-from flask import Flask,request,render_template
+from flask import Flask,request,render_template,flash
 from user_modle import User  #导入User类
+#  引入模块render_template，这个主要是返回模板要用的方法
+#  模块flash，是异常处理要用的模板
 
 app = Flask(__name__)
+app.secret_key="123"
 
 
 @app.route('/')
@@ -21,6 +24,11 @@ def hello_world():
 rander_template，括号里第一个是html文件，后面是键值对，表示要替换的文件
 index.html文件中，用{{}}，双花括号表示要替换的文件
 """
+@app.route('/ff')
+def hell_ff():
+    flash(u"你好，周")
+    return render_template('index1.html')
+
 
 @app.route("/user")
 def user_index():
@@ -59,7 +67,7 @@ def query_user(user_id):
 @app.route('/users')
 def user_list():
     users=[]
-    for i in range(1,101):
+    for i in range(1,62000):
         user=User(i,u"名字"+str(i))
         users.append(user)
 
