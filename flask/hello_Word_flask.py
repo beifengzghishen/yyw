@@ -85,4 +85,10 @@ def base_two():
     return  render_template("base_two.html")
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0',debug=True)
+    '''
+    host=’0.0.0.0'表示你的服务器可以对外服务，外网可以访问
+    debug=True，可以直接修改文件，不需要重启服务器，刷新浏览器就能显示内容的修改，
+    危险太大，绝不可以用在生产环境中
+    '''
+
